@@ -7,4 +7,5 @@ Sleek and customizable design with CSS.
 Accurate timekeeping powered by JavaScript's Date object.
 
 ![Digital clock image](https://github.com/rajpattanaik/Digital_clock/assets/82193660/e8b4ef06-cb55-43cb-81ba-2b9854c55424)
+
 HERE IS LINK OF LIVE DIGITAL CLOCK- http://127.0.0.1:5500/digital%20clock/index.html 
